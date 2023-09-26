@@ -11,7 +11,7 @@ Jingyu Gong, Jiachen Xu, Xin Tan, Haichuan Song, Yanyun Qu, Yuan Xie*, Lizhuang 
 
 ![RFCR Framework](./figs/rfcrnl_framework.jpg)
 
-### News
+## News
 - Code will coming soon.
 - :star2:`[2023/9/23]` RFCR-NL was accepted to TPAMI 2023.
   
@@ -19,13 +19,13 @@ Jingyu Gong, Jiachen Xu, Xin Tan, Haichuan Song, Yanyun Qu, Yuan Xie*, Lizhuang 
 
 comming soon
 
-### Acknowledgement
+## Acknowledgement
 
 Many thanks to these excellent open source projects:
 - [RandLA-Net](https://github.com/QingyongHu/RandLA-Net/), [KPConv](https://github.com/HuguesTHOMAS/KPConv).
 
 
-### BibTex
+## BibTex
 If this work is helpful for your research, please consider citing:
 ```
 @article{Tan_2023_TPAMI_point,
