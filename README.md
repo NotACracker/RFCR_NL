@@ -2,11 +2,15 @@
 This is the official implementation of RFCR-NL (TPAMI 2023), which is the extension work of RFCR (CVPR 2021) and utilized negative learning for both fully supervised and weakly supervised point cloud segmentation. For technical details, please refer to:
 
 **Positive-Negative Receptive Field Reasoning for Omni-supervised 3D Segmentation (TPAMI 2023)**
+
 Xin Tan*, Qihang Ma*, Jingyu Gong, Jiachen Xu, Zhizhong Zhang, Haichuan Song, Yanyun Qu, Yuan Xie, and Lizhuang Ma.
+
 **[Paper(coming soon)]**
 
 **Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning (CVPR 2021)**
+
 Jingyu Gong, Jiachen Xu, Xin Tan, Haichuan Song, Yanyun Qu, Yuan Xie*, Lizhuang Ma*.
+
 **[[Paper](https://arxiv.org/pdf/2105.10203.pdf)] [[Code](https://github.com/azuki-miho/RFCR)]**
 
 ![RFCR Framework](./figs/rfcrnl_framework.jpg)
