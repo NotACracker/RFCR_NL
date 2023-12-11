@@ -19,7 +19,7 @@ Jingyu Gong, Jiachen Xu, Xin Tan, Haichuan Song, Yanyun Qu, Yuan Xie, Lizhuang M
 - `[2023/12/11]` Initial code release.
 - :star2:`[2023/9/23]` RFCR-NL was accepted to TPAMI 2023.
   
-### Getting Started
+## Getting Started
 
 - [Install](docs/install.md)
 - [Prepare dataset](docs/prepare_dataset.md)
